@@ -1,0 +1,33 @@
+.mrk{
+    font-size:x-large;
+    color: crimson;
+
+}
+.prs_css{
+    font-size:x-large;
+    color: crimson;
+}
+.sbj_css{
+    font-size:x-large;-
+    color: crimson;
+}
+
+.top_css{
+    font-size:large;
+    color: red;
+}
+table{
+    border-collapse: collapse;
+    width: 250px;
+}
+tr,th,td{
+    border:2px solid black;
+}
+caption{
+    font-size: large;
+    font-weight: bold;
+}
+
+#snav{
+    display: none;
+}
