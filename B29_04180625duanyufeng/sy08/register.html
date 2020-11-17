@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Register</title>
+    <link rel="stylesheet" type="text/css" href="register_1.css" />
+    <script src='register_1.js'></script>
+
+</head>
+
+<body>
+    <form action="">
+        <div class="pg_body">
+            <div id="title">注册页面</div>
+            <div class="menu">用户名:</div>
+            <div class="kong">
+                <input id="username" type="text" name="01" placeholder="请输入用户名" onblur="check()">
+            </div>
+            <!-- <div class="menu">学号:</div>
+            <div class="kong">
+                <input id="stucode" type="text" name="01" placeholder="请输入学号" onblur="check()">
+            </div> -->
+
+            <div class="menu">姓名：</div>
+            <div class="kong">
+                <input id="name" type="text" name="01" placeholder="请输入姓名" onblur="check()">
+            </div>
+            <div class="menu">密码:</div>
+            <div class="kong">
+                <input id="pwd" type="password" name="02" placeholder="请输入密码" onblur="check()">
+            </div>
+
+            <div class="menu">确认密码:</div>
+            <div class="kong">
+                <input id="pwdConfirm" type="password" name="01" placeholder="请再次输入密码" onblur="check()">
+
+            </div>
+            <div class="menu">邮箱地址:</div>
+            <div class="kong">
+                <input id="email" type="text" name="01" placeholder="请输入电子邮箱" onblur="check()">
+
+            </div>
+            <div class="menu">密码提示问题</div>
+            <div class="kong">
+                <input id="question" type="text" name="01" placeholder="请输入密码提示答案" onblur="check()">
+            </div>
+
+            <div class="menu">密码提示答案</div>
+            <div class="kong">
+                <input id="answer" type="text" name="01" placeholder="请输入密码提示答案" onblur="check()">
+            </div>
+
+            <div class="button_1">
+                <input type="submit" value="注册"></button>
+                <button onclick="btn_reset()">重置</button>
+
+            </div>
+
+
+    </form>
+
+    </div>
+</body>
+
+</html>

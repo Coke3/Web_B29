@@ -1,0 +1,8 @@
+C:\Users\YouAn\Desktop\sy07\B29_04180625duanyufeng\sy08\bin\sy08.dll
+C:\Users\YouAn\Desktop\sy07\B29_04180625duanyufeng\sy08\bin\sy08.pdb
+C:\Users\YouAn\Desktop\sy07\B29_04180625duanyufeng\sy08\obj\Debug\sy08.dll
+C:\Users\YouAn\Desktop\sy07\B29_04180625duanyufeng\sy08\obj\Debug\sy08.pdb
+C:\Users\YouAn\Desktop\web\B29_04180625duanyufeng\sy08\bin\sy08.dll
+C:\Users\YouAn\Desktop\web\B29_04180625duanyufeng\sy08\bin\sy08.pdb
+C:\Users\YouAn\Desktop\web\B29_04180625duanyufeng\sy08\obj\Debug\sy08.dll
+C:\Users\YouAn\Desktop\web\B29_04180625duanyufeng\sy08\obj\Debug\sy08.pdb

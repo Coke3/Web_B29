@@ -1,0 +1,5 @@
+C:\Users\YouAn\Desktop\sy07\B29_04180625duanyufeng\sy07\bin\sy07.dll
+C:\Users\YouAn\Desktop\sy07\B29_04180625duanyufeng\sy07\bin\sy07.pdb
+C:\Users\YouAn\Desktop\sy07\B29_04180625duanyufeng\sy07\obj\Debug\sy07.csprojResolveAssemblyReference.cache
+C:\Users\YouAn\Desktop\sy07\B29_04180625duanyufeng\sy07\obj\Debug\sy07.dll
+C:\Users\YouAn\Desktop\sy07\B29_04180625duanyufeng\sy07\obj\Debug\sy07.pdb
